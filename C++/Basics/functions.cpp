@@ -2,13 +2,13 @@
 
 using namespace std;
 
-void printThing()
+void printThing(int x)
 {
-    cout << "hello mate xdddd" << endl;
+    cout << "hello mate, your number is: " << x << endl;
 }
 
 int main()
 {
-    printThing();
+    printThing(20);
     return 0;
 }
