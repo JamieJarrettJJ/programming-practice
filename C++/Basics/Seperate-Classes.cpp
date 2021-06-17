@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Spaghetti.cpp"
+#include "Spaghetti/Spaghetti.cpp"
 
 using namespace std;
 
