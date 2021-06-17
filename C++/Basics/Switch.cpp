@@ -18,6 +18,6 @@ int	main()
             cout << "You can drink in America now" << endl;
             break;
         default:
-            cout << "Sorry you get nothing"
+            cout << "Sorry you get nothing";
     }
 }
