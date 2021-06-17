@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C++"
+		},
+		{
+			"name": "Programming Practice",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
