@@ -6,16 +6,13 @@ using namespace std;
 
 int main() {
     int n;
-    int xSum = 0;
-    int ySum = 0;
-    int zSum = 0;
+    int xSum, ySum, zSum;
+    xSum = ySum = zSum = 0;
 
     cin >> n;
 
     for(int i=0; i<n;i++) {
-        int x;
-        int y;
-        int z;
+        int x, y, z;
 
         cin >> x >> y >> z;
 
